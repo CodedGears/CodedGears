@@ -1,6 +1,7 @@
-- Hi, I’m @CodedGears
+- Hi, I’m @senkyte
 - I’m interested in rhythm games and coding
-- I’m currently learning JavaScript
+- I’m currently learning Swift and Python
+-
 - 📫 How to reach me: you don't
 
 <!---
