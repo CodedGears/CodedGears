@@ -4,4 +4,4 @@
 - You can find random homework or projects in my repositories
 - 📫 How to reach me: you don't
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=senkyte)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=senkyte&show_icons=true&theme=dracula)
