@@ -1,4 +1,4 @@
-- Hi, I’m @senkyte
+<center> Hi, I’m @senkyte</center>
 - I’m interested in rhythm games and coding
 - I’m currently learning Python and HTML CSS JS.
 - You can find random homework or projects in my repositories
