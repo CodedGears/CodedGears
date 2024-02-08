@@ -5,7 +5,7 @@
 - 📫 How to reach me: you don't
 
 <p align="center">
- ![](https://github.com/senkyte/senkyte/blob/main/test.gif)
+ <IMG SRC = https://github.com/senkyte/senkyte/blob/main/test.gif>
 </p>
 
 
