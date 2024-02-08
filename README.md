@@ -11,7 +11,7 @@
 </div>
 
 <p align="center">
- <IMG SRC = https://github.com/senkyte/senkyte/blob/main/youtube-video-gif.gif>
+ <IMG SRC = https://github.com/senkyte/senkyte/blob/main/test.gif>
 </p>
 
 <blockquote align="center"> I think, therefore I am. </blockquote>
