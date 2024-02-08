@@ -10,4 +10,4 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=senkyte&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=senkyte1&theme=dracula&layout=compact&count_private=true&langs_count=6)</br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=senkyte&theme=dracula&layout=compact&count_private=true&langs_count=6)</br>
