@@ -5,9 +5,8 @@
 - 📫 How to reach me: you don't
 
 <p align="center">
-// Your content
+ ![](https://github.com/senkyte/senkyte/blob/main/test.gif)
 </p>
 
-![](https://github.com/senkyte/senkyte/blob/main/test.gif)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=senkyte&show_icons=true&theme=dracula)
