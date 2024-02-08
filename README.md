@@ -4,6 +4,10 @@
 - You can find random homework or projects in my repositories
 - 📫 How to reach me: you don't
 
+<p align="center">
+// Your content
+</p>
+
 ![](https://github.com/senkyte/senkyte/blob/main/test.gif)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=senkyte&show_icons=true&theme=dracula)
