@@ -10,7 +10,7 @@
 </p>
 </div>
 
-<p align="center">
+<p align="left">
  <IMG SRC = https://github.com/senkyte/senkyte/blob/main/sparkle.gif>
 </p>
 
