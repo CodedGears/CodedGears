@@ -10,9 +10,6 @@
 </p>
 </div>
 
-<p align="left">
- <IMG SRC = https://github.com/senkyte/senkyte/blob/main/sparkle.gif>
-</p>
 
 <blockquote align="center"> I think, therefore I am. </blockquote>
 <blockquote align="center"> Everyone has their dreams. Everyone has something they want to happen. But action is what seperates the dreamers and the achievers.</blockquote>
