@@ -13,6 +13,11 @@
 
 <blockquote align="center"> I think, therefore I am. </blockquote>
 <blockquote align="center"> Everyone has their dreams. Everyone has something they want to happen. But action is what seperates the dreamers and the achievers.</blockquote>
- 
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=senkyte&show_icons=true&theme=dracula)
+
+ <p align="left">
+ <IMG SRC = https://github.com/senkyte/senkyte/blob/main/senko.gif>
+ </p>
+  
+   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=senkyte&show_icons=true&theme=dracula)
+   
 
