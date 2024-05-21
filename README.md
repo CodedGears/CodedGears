@@ -6,6 +6,7 @@
  <p align="left">
   I'm an aspiring programmer and entrepreur who likes to code. 
  </p>
+ <img src="test.gif">
  <p align="right">  - Currently learning HTML, CSS, JavaScript, and C++. Also learning CTF techniques!
 </p>
 </div>
