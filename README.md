@@ -17,5 +17,5 @@
 
   
    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=senkyte&show_icons=true&theme=dracula)
-   
+   [![GitHub Streak](https://streak-stats.demolab.com/?user=senkyte&theme=ambient-gradient)](https://git.io/streak-stats)
 
