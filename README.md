@@ -6,11 +6,10 @@
  <p align="left">
   I'm an aspiring programmer and entrepreur who likes to code. 
  </p>
- <img src="test.gif">
+ <img src="silver.gif">
  <p align="right">  - Currently learning HTML, CSS, JavaScript, and C++. Also learning CTF techniques!
 </p>
 </div>
-
 
 <blockquote align="center"> I think, therefore I am. </blockquote>
 <blockquote align="center"> Veni, vidi, vici.</blockquote>
